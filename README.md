@@ -1,4 +1,4 @@
-# De l'autre côté du mirroir (talk)
+# De l'autre côté du miroir (talk)
 (la fabrique du logiciel)
 
 ## Abstract
